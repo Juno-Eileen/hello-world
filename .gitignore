@@ -1,0 +1,8 @@
+*.class
+
+*.yml
+
+.idea
+
+test.iml
+
